@@ -232,6 +232,9 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+# Program:
+# Output:
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
